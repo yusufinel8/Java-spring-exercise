@@ -1,0 +1,4 @@
+Bu dosyanın çalışabilmesi için projenin açıldığı bilgisayarda 
+maven ve jdk 8 yada  11 kurulu olmalıdır.
+
+Program açıldıktan sonra pom.xml dosyasında maven güncellenmesi yapılmadan program çalışmaz.
